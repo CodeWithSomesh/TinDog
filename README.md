@@ -7,3 +7,5 @@ Used HTML, CSS & Bootstrap to develop this site
 
 Check it out:
 https://codewithsomesh.github.io/TinDog/
+
+Uploaded a walkthrough video as well,  check the "TInDog (Walkthrough).webm" file
