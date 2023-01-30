@@ -22,14 +22,14 @@ nav{
 
 }
 
-.row {
+.title-row {
 
     margin: 0;
 }
 
 
 
-.row h1{
+#title h1{
 
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
@@ -40,7 +40,7 @@ nav{
 
 }
 
-.row img{
+#title img{
 
     width: 20%;
     transform: rotate(25deg);
@@ -51,8 +51,24 @@ nav{
 
 button{
  
-    margin-right: 4%;
+    margin: 0 4% 10% 0;
 
+}
+
+
+@media (max-width: 1028px) {
+    
+    #title{
+
+        text-align: center;
+    }
+
+    #title img {
+
+        position: static;
+        transform: rotate(0);
+        width: 100%;
+    }
 }
 
 
