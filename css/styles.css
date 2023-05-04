@@ -1,15 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Ubuntu&display=swap');
 
+body {
+
+    text-align: center;
+}
+
 
 /* Navbar */
 
-nav{
+.navbar{
+
     margin-bottom: 4rem;
+}
+
+
+
+.navbar-toggler {
+    
+   margin-top: 10%;
+} 
+
+.navbar-brand {
+    
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
 }
 
 .nav-item {
     font-size: 1.3rem;
     margin: 0 6%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-link {
+
+    color: white;
 }
 
 
@@ -21,6 +48,12 @@ nav{
     padding-bottom: 10%;
 
 }
+
+.container-fluid {
+
+    padding: 3% 15%;
+}
+
 
 .title-row {
 
@@ -103,9 +136,9 @@ h3 {
 }
 
 
-p {
+#features p {
 
-    
+    font-family: 'Ubuntu', sans-serif;
     color: #8f8f8f;
     padding: 0 15%;
 
@@ -165,6 +198,14 @@ p {
 }
 
 /* Pricing Section */
+
+p {
+
+    color: #8f8f8f;
+    padding: 0 15%;
+
+}
+
 
 #pricing{
     font-family: 'Montserrat', sans-serif;
@@ -242,5 +283,6 @@ p {
 .footer-icons{
 
     margin: 5%;
+    cursor: pointer;
 
 }
