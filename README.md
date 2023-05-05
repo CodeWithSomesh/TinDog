@@ -1,10 +1,11 @@
-# Angela Yu's The Complete 2023 Web Development Bootcamp (TinDog Project)
+# TinDog Landing Page
 
 ## Website Link 
 Check it out:
 https://codewithsomesh.github.io/TinDog/
 
-
+## Website Demo  
+<img/>
 
 #### Note:
 > Built using HTML, CSS & Bootstrap
