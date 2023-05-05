@@ -1,11 +1,12 @@
-# Angela Yu's The Complete 2023 Web Development Bootcamp 
+# Angela Yu's The Complete 2023 Web Development Bootcamp (TinDog Project)
 
-## Project TinDog 
-
-
-Used HTML, CSS & Bootstrap to develop this site
-
+## Website Link 
 Check it out:
 https://codewithsomesh.github.io/TinDog/
 
-Uploaded a walkthrough video as well,  check the "TinDog (Walkthrough).webm" file
+
+
+#### Note:
+> Built using HTML, CSS & Bootstrap
+> 
+> Uploaded a walkthrough video as well,  check the "TinDog (Walkthrough).webm" file
