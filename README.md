@@ -2,10 +2,12 @@
 
 ## Website Link 
 Check it out:
-https://codewithsomesh.github.io/TinDog/
+https://codewithsomesh.github.io/TinDog/ 
+
+<br>
 
 ## Website Demo  
-<img/>
+<img href=""/>
 
 #### Note:
 > Built using HTML, CSS & Bootstrap
