@@ -1,7 +1,7 @@
 # TinDog Landing Page
 <br>
 
-## Website Link 
+## Website Link 🌐
 Check it out:
 https://codewithsomesh.github.io/TinDog/ 
 
