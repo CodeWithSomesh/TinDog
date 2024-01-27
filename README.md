@@ -1,8 +1,10 @@
-# TinDog Landing Page 🐶
-<br>
-🐾 TinDog: Where Paws Find Love! 🐾
+<div align='center'><img style="width:30%" src='https://github.com/CodeWithSomesh/TinDog/assets/123357802/71871889-ce35-48ac-b21b-30df860bbc17' target='_blank' /></div>
 
-Welcome to TinDog, the ultimate canine matchmaking platform! If you've ever felt that your four-legged friends deserve a shot at love, then you're in the right place. TinDog brings the fun and excitement of dating apps to the world of dogs, helping furry companions connect, mingle, and maybe even find their perfect match.
+# TinDog Landing Page 🐶
+  <h3>🐾 TinDog: Where Paws Find Love! 🐾</h3>
+  <p>Welcome to TinDog, the ultimate canine matchmaking platform! If you've ever felt that your four-legged friends deserve a shot at love, then you're in the right place. TinDog brings the fun and excitement of dating apps to the world of dogs, helping furry companions connect, mingle, and maybe even find their perfect match.</p>
+
+
 
 ## Website Link 🌐
 Check it out:
